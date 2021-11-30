@@ -65,7 +65,7 @@ const questions = () => {
 const writeFileAsync = util.promisify(fs.writeFile);
 
 // TODO: Create a function to initialize app
-const init() => {
+const init = () => {
     questions()
     .then((answers) => {
 
@@ -74,9 +74,9 @@ const init() => {
         return answers
     })
 
-    .then((answers) => writeFileAsync('README.md', generateMarkdown.generateMarkdown(answers))
-    .then(() => console.log('successfully wrote to index.html'))
-    .catch((err) => console.error(err));
+    .then((answers) => writeFileAsync('README.md', generateMarkdown.generateMarkdown(answers)))
+      .then(() => console.log('Successfully wrote to index.html'))
+      .catch((err) => console.error(err));
 }
 
 // Function call to initialize app
