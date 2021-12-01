@@ -29,21 +29,7 @@ Kerrius Williams
 * package.json- NPM package 
 
 
-## Mock-Up 
-[Video Demonstration]()
-
-### Application Initiation
-![GitHub Logo]()
-
-### Prompt Walkthrough
-![GitHub Logo]()
-
-### Prompt Walkthrough
-![GitHub Logo]()
-
-### Successful Written Readme
-![GitHub Logo]()
-
 
 ## Repository Link
+https://kerrius.github.io/ReadMe-Generator/
 
