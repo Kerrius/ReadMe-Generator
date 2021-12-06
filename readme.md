@@ -5,7 +5,7 @@
   * [User Story](#User-Story)
   * [Contributors](#Contributors)
   * [Language/Technoligies Used](#Language/Technologies-Used)
-  * [Mock-Up](#Mock-Up)    
+  * [Video Demonstration](#Video Demonstration)    
   * [Repository](#Repository-Link)
 
 
@@ -28,7 +28,7 @@ Kerrius Williams
 * Inquirer
 * package.json- NPM package 
 
-
+## Video Demonstration
 
 ## Repository Link
 https://kerrius.github.io/ReadMe-Generator/
